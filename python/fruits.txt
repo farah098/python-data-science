@@ -1,0 +1,5 @@
+Product|Quantity|Price
+tv|10|1555.55
+basikal|6|675.0
+motor|2|4433.0
+telepon|3|1234.0

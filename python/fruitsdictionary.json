@@ -1,0 +1,16 @@
+[
+    {
+      "Name": "Television",
+      "Quantity": 20,
+      "Price": 1455.99,
+      "Authors":{
+        "Main":"John",
+        "coAuthor":"David"
+      }
+    },
+    {
+      "Name": "Radio",
+      "Quantity": 32,
+      "Price": 654.25
+    }
+  ] 

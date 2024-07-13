@@ -1,0 +1,3 @@
+[{'product':"Television", 'quantity':10, 'price':1245.44},
+{'product':"Computer", 'quantity':20, 'price':8245.44},
+{'product':"Laptop", 'quantity':10, 'price':2245.44}]
