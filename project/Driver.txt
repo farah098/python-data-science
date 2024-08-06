@@ -1,0 +1,15 @@
+ID Number|First Name|Last Name|Phone Number|Email|License Expiry Date
+5678|Ali|Ahmad|019345672|ali@mail.com|2024-02-05
+4321|Lee|Chong Wei|0112427678|lee@mail.com|2024-03-22
+3456|Navin|Raj|013987620|navin@mail.com|2025-01-05
+1234|Siti|Abu|0195678112|siti_abu@mail.com|2027-05-24
+6789|Zayn|Malik|0167791121|zmalik@mail.com|2024-08-24
+9876|Sarah|Cheong|0117870432|sarah@mail.com|2023-12-29
+2345|Nadia|Khan|018795454|nkhan@mail.com|2026-08-23
+5432|Harry|Styles|019922345|harry@mail.com|2024-10-01
+8015|Mariah|Carey|0178892323|mariah@mail.com|2026-03-30
+7654|Ahmad|Ali|013454522|ahmad@mail.com|2022-02-24
+4567|Amira|Ali|015676722|aali@mail.com|2025-06-19
+8212|Peter|Parker|014569902|p_parker@mail.com|2024-11-164890|alia|rahmani|012836382|alia@gmail.com|2025-06-20
+
+4890|Alia|Azman|018237483|alia@gmail.com|2025-02-22

@@ -1,0 +1,14 @@
+ID Number|Unit Number|Street|Postcode|City|State|Country
+5678|101|Jalan Sultan|43000|Kajang|Selangor|Malaysia
+4321|202|Persiaran Flora|63000|Cyberjaya|Selangor|Malaysia
+3456|303|Jalan P9|62250|Putrajaya|Putrajaya|Malaysia
+1234|404|Jalan Usaha|43100|Hulu Langat|Selangor|Malaysia
+6789|505|Jalan Diplomatik|62000|Putrajaya|Putrajaya|Malaysia
+9876|606|Jalan Multimedia|63100|Cyberjaya|Selangor|Malaysia
+2345|707|Jalan Teknokrat|63000|Cyberjaya|Selangor|Malaysia
+5432|808|Jalan Perusahaan|43200|Balakong|Selangor|Malaysia
+8015|909|Jalan Kemajuan|43300|Seri Kembangan|Selangor|Malaysia
+7654|1010|Jalan Pusat Bandar|62100|Putrajaya|Putrajaya|Malaysia
+4567|1111|Jalan Meranti|63200|Cyberjaya|Selangor|Malaysia
+8212|1212|Jalan Persiaran Selatan|63100|Cyberjaya|Selangor|Malaysia
+4890|||||||

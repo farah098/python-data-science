@@ -1,0 +1,13 @@
+ID Number|Birth Date|Gender|Nationality|Emergency Contact|Blood Type|Medical Condition
+5678|1990-05-12|M|Malaysian|0123456789|O|Hypertension
+4321|1945-07-22|M|Malaysian|01123244478|B|Diabetes
+3456|1992-11-30|M|Malaysian|0134567890|B|Asthma
+1234|1988-03-15|F|Malaysian|0145678901|AB|None
+6789|1995-08-08|M|Malaysian|0156789012|O|Allergy to peanuts
+9876|1991-10-25|F|Malaysian|0167890123|A|Hypertension
+2345|1983-06-14|F|Malaysian|0178901234|B|None
+5432|1987-09-03|M|Malaysian|0189012345|O|Heart disease
+8015|1994-12-29|F|Malaysian|0190123456|AB|Asthma
+7654|1986-02-19|M|Malaysian|0101234567|B|None
+4567|1993-04-23|F|Malaysian|0112345678|O|Hypertension
+4890|||None|None|None|None|None

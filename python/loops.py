@@ -8,6 +8,7 @@ for fruit in fruits:
 for fruit in fruits[::2]:
     print(fruit)
 
+
 #print the fruit that has 6 characters
 print("6 characters fruit")
 for fruit in fruits:
